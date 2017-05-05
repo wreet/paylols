@@ -535,6 +535,9 @@ hero
 cmContentVersionDigitalAsset
 reports
 devel_logsql
+reasons
+explanations
+esps
 f_sequence
 MEMBER
 ClassificationScheme
