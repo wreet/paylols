@@ -1019,6 +1019,7 @@ templatelinks
 jforum_ranks
 D_Format_Data
 tblblogtextblocks
+blogs
 time_zone_leap_second
 rss
 Decimation
